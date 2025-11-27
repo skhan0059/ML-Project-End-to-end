@@ -1,6 +1,6 @@
 import sys
 from typing import Tuple
-from source.logger import logging
+
 
 def error_message_detail(error: Exception, error_details: sys) -> str:
     """
